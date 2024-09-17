@@ -6,7 +6,7 @@
 
 <h2>📊 Certifications:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZnbnYX4" data-context="false" ><a href="//imgur.com/a/ZnbnYX4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+- [Google Data Analytics Certification]([<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZnbnYX4" data-context="false" ><a href="//imgur.com/a/ZnbnYX4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://i.imgur.com/4EOxKow.png))
 
 <h2> 🤳 Connect with me:</h2>
 
