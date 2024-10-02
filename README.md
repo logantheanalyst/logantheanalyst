@@ -5,9 +5,9 @@
   - [Finding Trends in Popular Songs 1961-Now Using SQL, Sheets & Tableau](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📊 Certifications:</h2>
-[Coursera WYKBTD6BRJMM.pdf](https://github.com/user-attachments/files/17232615/Coursera.WYKBTD6BRJMM.pdf)
 
-- [Google Data Analytics Certification]([<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZnbnYX4" data-context="false" ><a href="//imgur.com/a/ZnbnYX4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://i.imgur.com/4EOxKow.png))
+
+- [Google Data Analytics Certification](files/Coursera.WYKBTD6BRJMM.pdf "Google Data Analytics Certificate.pdf")
 
 <h2> 🤳 Connect with me:</h2>
 
