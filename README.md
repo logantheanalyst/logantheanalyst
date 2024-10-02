@@ -7,7 +7,7 @@
 <h2>📊 Certifications:</h2>
 
 
-- [Google Data Analytics Certification](files/Coursera.WYKBTD6BRJMM.pdf)
+- [Google Data Analytics Certification](logantheanalyst/Coursera.WYKBTD6BRJMM.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
